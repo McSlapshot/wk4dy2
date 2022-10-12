@@ -1,0 +1,12 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "askForPassword": true,
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "wk4dy2",
+            "connectString": "postgres://asquntrr:6gneg65RD6UC_GTeNb3h3DaMtqjRfRcI@peanut.db.elephantsql.com/asquntrr"
+        }
+    ]
+}
